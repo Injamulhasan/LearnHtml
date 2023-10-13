@@ -2,9 +2,8 @@
 
 ## Random School Site (Only using Raw HTML5)
 
-### 1
-![project-6](https://github.com/Injamulhasan/LearnHtml/assets/102874510/12b88bf8-41a4-4804-8ebb-30d4b3cb6dae)
-
+### 1 Home
+![project-6](https://github.com/Injamulhasan/LearnHtml/assets/102874510/8d9feef4-a01b-4f51-a858-67e451e31b76)
 
 # Project 
 
