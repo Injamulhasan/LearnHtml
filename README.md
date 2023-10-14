@@ -3,7 +3,20 @@
 ## Random School Site (Only using Raw HTML5)
 
 ### 1 Home
-![project-6](https://github.com/Injamulhasan/LearnHtml/assets/102874510/8d9feef4-a01b-4f51-a858-67e451e31b76)
+
+![project-6 1](https://github.com/Injamulhasan/LearnHtml/assets/102874510/243d6edb-0938-4969-88e7-b5030db87124)
+
+### 2 Facilities
+![project-6 2](https://github.com/Injamulhasan/LearnHtml/assets/102874510/de3aadea-accc-4f34-a8a7-91f1dd446830)
+
+### 3 Future
+
+
+![project-6 3](https://github.com/Injamulhasan/LearnHtml/assets/102874510/361cfa53-e148-4f85-9ce3-409363640eef)
+
+### 4 FAQ
+![project-6 4](https://github.com/Injamulhasan/LearnHtml/assets/102874510/c94e3a3b-45a4-4782-a501-dfe97f88e52e)
+
 
 # Project 
 
