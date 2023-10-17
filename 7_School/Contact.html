@@ -1,50 +1,124 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact</title>
-  <style>
-/* styling section starts */
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact</title>
+    <style>
+      body {
+        font-family: arial;
+        background-color: white;
+      }
+    </style>
+    <!-- styling section ends -->
+  </head>
 
-    /* table {
-      border-style: solid;
-  border-color: #FFF8C9 ;
-    } */
-    body {
-      font-family:arial;
-      background-color: white;
-        }
-  </style>
-<!-- styling section ends -->
-</head>
-<body>
-  <table border-color="white" style="width: 100%;" cellpadding="5" cellspacing="0" border-collapse="0">
-    <!-- heading section with logo  -->
-    <tr>
-      <td align="center" colspan="6" bgcolor="687EFF">
-          <img src="image/schoollogo.png" alt="logo" width="150" height="140"><br><font face="arial" size="6" color="FFF8C9"><b>Random School</b> <br><br></font>
-      </td>
-<!-- heander logo section end -->
+  <body>
+    <table
+      border-color="white"
+      style="width: 100%"
+      cellpadding="5"
+      cellspacing="0"
+      border-collapse="0"
+    >
+      <!-- heading section with logo  -->
+      <tr>
+        <td align="center" colspan="6" bgcolor="#687EFF">
+          <img
+            src="image/schoollogo.png"
+            alt="logo"
+            width="150"
+            height="140"
+          /><br /><font face="arial" size="6" color="FFF8C9"
+            ><b>Random School</b> <br /><br
+          /></font>
+        </td>
+      </tr>
+      <!-- heander logo section end -->
 
-<!-- nav menu  starts-->
-<tr  width="60%" height="80" bgcolor="#DFCCFB" class="clr" >
-  <td  align="center"> <a href="Home.html" style="color: #DA0C81" ><b >Home</b></a></td>
-  <td align="center"> <a href="Facilities.html" style="color: #DA0C81" ><b>Facilities</b></a></td>
-  <td align="center"> <a href="Future.html" style="color: #DA0C81" ><b>Future</b></a></td>
-  <td align="center"> <a href="Contact.html" style="color: #DA0C81" ><b>Contact</b></a></td>
-  <td align="center"> <a href="FAQ.html" style="color: #DA0C81" ><b> FAQ</b></a> </td>
-</tr>
-<!-- nav manu ends -->
+      <!-- nav menu  starts-->
+      <tr width="60%" height="80" bgcolor="#DFCCFB" class="clr">
+        <td align="center">
+          <a href="Home.html" style="color: #da0c81"><b>Home</b></a>
+        </td>
+        <td align="center">
+          <a href="Facilities.html" style="color: #da0c81"><b>Facilities</b></a>
+        </td>
+        <td align="center">
+          <a href="Future.html" style="color: #da0c81"><b>Future</b></a>
+        </td>
+        <td align="center">
+          <a href="Contact.html" style="color: #da0c81"><b>Contact</b></a>
+        </td>
+        <td align="center">
+          <a href="FAQ.html" style="color: #da0c81"><b> FAQ</b></a>
+        </td>
+      </tr>
+    </table>
+    <br /><br /><br /><br /><br /><br />
 
+    <!-- nav manu ends -->
 
-<!-- footer starts -->
-        <tr align="center" bgcolor="#687EFF" width="100%" color="#687EFF" class="purple">
-          <td align="center" colspan="6"> <font  color="white" align="center" ><br><br>Copyright 2023 All right reserved <br>
-            Developed by Injamul Hasan Akash<br><br><br></font></td>
+    <!-- Form section Starts -->
+    <fieldset id="fieldset3">
+      <br />
+      <legend align="center" style="color: #da0c81"><b>Contact Form</b></legend>
+      <table width="30%" id="EmployeeDetails" align="center">
+        <tr align="center" bgcolor="#B6FFFA">
+          <td class="head2" colspan="6">
+            <h2 style="color: #687eff">CONTACT US</h2>
+            <label> <b>First Name :</b></label
+            >&nbsp <input type="text" class="btn" size="40" /> <br /><br />
+            <label> <b>Last Name :</b></label
+            >&nbsp <input type="text" class="btn" size="40" /> <br /><br />
+            <label> <b>Your Email :</b></label
+            >&nbsp <input type="text" class="btn" size="40" /> <br /><br />
+            <label> <b>Your Phone :</b></label>
+            <input type="text" class="btn" size="40" /> <br /><br />
+            <label> <b>Subject :</b></label
+            >&nbsp &nbsp &nbsp &nbsp
+            <input type="text" class="btn" size="40" /> <br /><br />
+            <label> <h3>Message :</h3></label>
+            <textarea
+              name=""
+              id=""
+              cols="30"
+              rows="10"
+              style="width: 600px"
+            ></textarea
+            ><br /><br /><br />
+            <button
+              align="center"
+              type="submit"
+              style="height: 45px; color: aliceblue; background-color: #687eff"
+            >
+              Send Now</button
+            ><br /><br />
+          </td>
         </tr>
-<!-- footer ends -->
+      </table>
+      <br />
+    </fieldset>
+    <!-- Form section ends -->
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-  </table>
-</body>
+    <!-- footer starts -->
+    <table style="width: 100%" cellpadding="5" border-collapse="0">
+      <tr
+        align="center"
+        bgcolor="#687EFF"
+        width="100%"
+        color="#687EFF"
+        class="purple"
+      >
+        <td align="center" colspan="6">
+          <font color="white" align="center"
+            ><br /><br />Copyright 2023 All right reserved <br />
+            Developed by Injamul Hasan Akash<br /><br /><br
+          /></font>
+        </td>
+      </tr>
+      <!-- footer ends -->
+    </table>
+  </body>
 </html>
