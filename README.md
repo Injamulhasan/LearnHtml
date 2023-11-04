@@ -1,7 +1,7 @@
 # Learn-HTML
 
 ## 📝 Description
-Welcome to my "LearnHTML in One repository. You can have a little tour of this repo and its resources without any cost. I hope you will be able to write HTML properly after watching this repo and . 
+Welcome to my "LearnHTML in One repository. You can have a little tour of this repo and its resources without any cost. I hope you will be able to write HTML properly after watching this repo . 
  
  
 ## 🙋‍♀️  What is HTML?
