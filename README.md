@@ -31,7 +31,7 @@ Welcome to my "LearnHTML in One repository. You can have a little tour of this r
 <hr>
 
 
-## Final Project - { Say Hello World }
+## Final Project -  Say Hello World 
 
 ### Final Stunning and Mordern Portfolio project using only HTML5
 
